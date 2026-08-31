@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 078
+# 🦁 XXD Panel 078｜金箔压印志
 
 ### 把照片最关键的轮廓，压进暖米白棉纸与香槟金箔的真实凹槽
 

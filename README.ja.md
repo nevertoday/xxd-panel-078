@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 078
+# 🦁 XXD Panel 078｜金箔箔押し手帳
 
 ### 写真の輪郭を、アイボリーコットン紙のシャンパン金凹圧へ
 

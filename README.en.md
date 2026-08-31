@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 078
+# 🦁 XXD Panel 078｜Gold-Leaf Embossed Journal
 
 ### Press the photograph's defining contour into ivory cotton paper as recessed champagne-gold linework
 
