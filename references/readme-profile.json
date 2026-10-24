@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 078｜Gold-Leaf Embossed Journal: reduces the key outline, structure and pose of a photo to a fine, restrained line drawing in the manner of a botanical illustration, then presses it deep into warm ivory cotton art paper as recessed champagne-gold foil — the gold sits inside real grooves with crushed paper fibre, subtle edge highlights and pressure shadows, sometimes joined by a second, inkless blind deboss layer — in a minimal, balanced layout with generous whitespace and a short title or tiny note in fine, classically engraved-looking editorial type pressed in the same gold. No raised foil, bright yellow metal, mirror gold or plastic relief. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-078 or asks for gold foil deboss, letterpress, champagne-gold line emblem or luxury stationery art from a photo.",
+  "short_description": "金箔压印志：把照片的关键轮廓画成细线，以香槟金箔深压进暖米白棉纸的凹槽里",
+  "zh-CN": {
+    "name": "金箔压印志",
+    "tagline": "把照片最关键的轮廓画成细线，用香槟金箔深深压进暖米白棉纸里。",
+    "look": "照片只留下最关键的身份特征，概括成像植物图鉴那样纤细克制的线稿。整幅线稿是柔和的香槟金箔，和纸一起被深压进暖米白棉质艺术纸：金线在真实的凹槽里，边缘的纸纤维被挤压，带细小高光和压痕阴影；有些地方还有一层不上墨的素压，形成深浅两层。构图极简、平衡，留白很多。标题或小注释用纤细、带一点古典雕刻味的字体，同样以金箔压进纸面。",
+    "traits": ["暖米白棉纸", "深压凹印", "凹槽香槟金箔", "纤细线稿", "无墨压痕", "低调奢华"],
+    "good": [
+      "轮廓优美、线条清楚的主体：一枝花、一只天鹅、一座拱桥、一只香水瓶",
+      "可以做成标识的建筑或器物：教堂立面、灯塔、茶壶、一把椅子",
+      "想做婚礼、花艺、珠宝或香氛纸品感的照片：戒指、花束、礼盒"
+    ],
+    "poor": [
+      "靠色彩打动人的照片：彩虹、花海、霓虹，压印后只剩一种金色",
+      "细节极多、轮廓混乱的场景：拥挤街道、杂乱桌面、人群",
+      "想要凸起烫金、亮黄金属、镜面金、彩色插画或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Gold-Leaf Embossed Journal",
+    "tagline": "Draws the defining outline of your photo in fine line and presses it deep into ivory cotton paper in champagne-gold foil.",
+    "look": "Only the key identifying features are kept, simplified into a fine, restrained line drawing in the spirit of a botanical illustration. The whole drawing is soft champagne-gold foil, pressed deep into warm ivory cotton art paper together with the paper: the gold lies inside real grooves, the fibres at the edges are crushed, with tiny highlights and pressure shadows, and in places a second inkless blind deboss adds a shallower layer. The layout is minimal and balanced, with lots of empty space. A title or small note in fine type with a hint of classical engraving is pressed into the paper in the same gold.",
+    "traits": ["Warm ivory cotton paper", "Deep deboss", "Recessed champagne gold", "Fine line drawing", "Blind deboss", "Understated luxury"],
+    "good": [
+      "Subjects with graceful, clear outlines: a flower stem, a swan, an arched bridge, a perfume bottle",
+      "Buildings or objects that could become an emblem: a church facade, a lighthouse, a teapot, a chair",
+      "Photos meant to feel like wedding, floral, jewellery or fragrance stationery: rings, bouquets, gift boxes"
+    ],
+    "poor": [
+      "Photos that rely on colour: rainbows, flower fields, neon, which shrink to a single gold",
+      "Busy scenes with messy outlines: crowded streets, cluttered desks, crowds",
+      "Requests for raised foil, bright yellow metal, mirror gold, colour illustration or 3D"
+    ]
+  },
+  "ja": {
+    "name": "金箔箔押し手帳",
+    "tagline": "写真のいちばん大事な輪郭を細い線にし、シャンパンゴールドの箔でアイボリーのコットン紙に深く押し込みます。",
+    "look": "写真からは見分けに欠かせない特徴だけを残し、植物画のような細く控えめな線画にまとめます。線画全体は柔らかなシャンパンゴールドの箔で、紙ごと温かなアイボリーのコットン紙に深く押し込まれます。金の線は本当の凹みの中にあり、縁の紙の繊維はつぶれて、小さなハイライトと押し跡の影ができます。ところどころ、インクを使わない空押しがもう一段浅い層を加えます。構図はミニマルで釣り合いがとれ、余白はたっぷりです。タイトルや小さな注記は、少し古典的な彫刻の趣がある細い書体で、同じ金箔で紙に押されます。",
+    "traits": ["温かなアイボリーのコットン紙", "深い凹版押し", "凹みのシャンパンゴールド", "細い線画", "空押し", "控えめな贅沢"],
+    "good": [
+      "輪郭が美しくはっきりした主役：一枝の花、白鳥、アーチ橋、香水瓶",
+      "マークにできる建物や器物：教会の正面、灯台、ティーポット、椅子",
+      "ウェディング、花、ジュエリー、香水の紙もののようにしたい写真：指輪、花束、ギフトボックス"
+    ],
+    "poor": [
+      "色で見せる写真：虹、花畑、ネオン（押すと金一色だけになります）",
+      "細部が多く輪郭が入り組んだ場面：混雑した通り、散らかった机、人混み",
+      "盛り上がった箔押し、明るい黄色の金属、鏡面の金、カラーイラスト、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "금박 압인 저널",
+    "tagline": "사진의 핵심 윤곽을 가는 선으로 그려 샴페인 골드 금박으로 아이보리 코튼지에 깊이 눌러 넣습니다.",
+    "look": "사진에서 알아보는 데 꼭 필요한 특징만 남겨 식물 도감처럼 가늘고 절제된 선화로 정리합니다. 선화 전체는 부드러운 샴페인 골드 금박이며, 종이와 함께 따뜻한 아이보리 코튼 아트지에 깊이 눌려 들어갑니다. 금빛 선은 실제 오목한 홈 안에 있고, 가장자리의 종이 섬유는 눌려 작은 하이라이트와 압력 그림자가 생깁니다. 군데군데 잉크 없는 민압인이 한 단계 얕은 층을 더합니다. 구성은 미니멀하고 균형 잡혀 있으며 여백이 넉넉합니다. 제목이나 작은 메모는 고전 조각의 기운이 살짝 있는 가는 서체로, 같은 금박으로 종이에 눌러 찍습니다.",
+    "traits": ["따뜻한 아이보리 코튼지", "깊은 오목 압인", "홈 안의 샴페인 골드", "가는 선화", "민압인", "절제된 고급스러움"],
+    "good": [
+      "윤곽이 우아하고 선이 분명한 주인공: 꽃 한 가지, 백조, 아치형 다리, 향수병",
+      "로고처럼 만들 수 있는 건물이나 사물: 교회 정면, 등대, 찻주전자, 의자",
+      "웨딩, 플라워, 주얼리, 향수 지류처럼 만들고 싶은 사진: 반지, 꽃다발, 선물 상자"
+    ],
+    "poor": [
+      "색으로 보여 주는 사진: 무지개, 꽃밭, 네온(압인하면 금색 하나만 남습니다)",
+      "세부가 많고 윤곽이 어지러운 장면: 붐비는 거리, 어수선한 책상, 인파",
+      "볼록 박, 밝은 노란 금속, 거울 같은 금, 컬러 일러스트, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر مطبوع برقائق الذهب",
+    "tagline": "يرسم المحيط الأساسي لصورتك بخط رفيع ويضغطه عميقاً في ورق قطني عاجي برقائق ذهب الشامبانيا.",
+    "look": "لا يُبقى إلا على السمات الأساسية للهوية، وتُبسَّط إلى رسم خطي رفيع متقشّف بروح الرسوم النباتية. الرسم كله رقائق ذهبية بلون الشامبانيا الهادئ، مضغوطة بعمق مع الورق في ورق فني قطني بلون العاج الدافئ: يستقر الذهب داخل أخاديد حقيقية، وتنضغط ألياف الورق عند الحواف مع لمعات دقيقة وظلال ضغط، وفي بعض المواضع تضيف طبقة ثانية من الكبس الأعمى بلا حبر عمقاً أقل. التكوين بسيط ومتوازن مع فراغ كثير. ويُكبس عنوان أو ملاحظة صغيرة بحرف رفيع فيه لمسة من النقش الكلاسيكي بالذهب نفسه.",
+    "traits": ["ورق قطني عاجي دافئ", "كبس غائر عميق", "ذهب شامبانيا غائر", "رسم خطي رفيع", "كبس أعمى", "فخامة هادئة"],
+    "good": [
+      "عناصر ذات محيط رشيق وواضح: غصن زهرة، بجعة، جسر مقوّس، زجاجة عطر",
+      "مبانٍ أو أدوات تصلح شعاراً: واجهة كنيسة، منارة، إبريق شاي، كرسي",
+      "صور تريدها بطابع مطبوعات الأعراس أو الزهور أو المجوهرات أو العطور: خواتم، باقات، علب هدايا"
+    ],
+    "poor": [
+      "صور تعتمد على اللون: قوس قزح، حقول الزهور، النيون، فتتقلص إلى لون ذهبي واحد",
+      "مشاهد مزدحمة بمحيطات فوضوية: شوارع مكتظة، مكاتب مبعثرة، حشود",
+      "طلب ذهب بارز أو معدن أصفر لامع أو ذهب مرآتي أو رسم ملوّن أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
